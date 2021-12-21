@@ -1,4 +1,4 @@
-# Ejercicio-m-JDBC
+# ManejoJDBC
 
 -  Lenguaje: Java.
 -  Ejercicio desarrollado en java con el fin de entender el Manejo de JDBC.
